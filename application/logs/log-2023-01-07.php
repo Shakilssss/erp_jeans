@@ -1,0 +1,51 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-01-07 08:51:48 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0]
+ERROR - 2023-01-07 08:57:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-01-07]
+ERROR - 2023-01-07 09:02:54 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-01-07]
+ERROR - 2023-01-07 09:03:04 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-01-06]
+ERROR - 2023-01-07 10:17:20 --> Severity: Notice  --> Trying to get property of non-object E:\xampp\htdocs\erp_jeans\application\views\salary_sheet_for_eot.php 112
+ERROR - 2023-01-07 10:18:17 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2023-01-07 10:18:19 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2023-01-07 07:30:03 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-01-07 12:31:45 --> SALARY PROCESS --> [USERNAME : Hanif, PROCESS_MONTH : 2023-01]
+ERROR - 2023-01-07 13:05:32 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0388]
+ERROR - 2023-01-07 13:06:34 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0]
+ERROR - 2023-01-07 14:58:22 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0]
+ERROR - 2023-01-07 15:03:30 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2685]
+ERROR - 2023-01-07 15:07:06 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2686]
+ERROR - 2023-01-07 15:12:56 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2691]
+ERROR - 2023-01-07 15:17:05 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1483]
+ERROR - 2023-01-07 15:27:11 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1484]
+ERROR - 2023-01-07 15:32:41 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1483]
+ERROR - 2023-01-07 15:41:06 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1485]
+ERROR - 2023-01-07 15:44:14 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2690]
+ERROR - 2023-01-07 15:56:20 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1486]
+ERROR - 2023-01-07 16:00:56 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1487]
+ERROR - 2023-01-07 16:05:18 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0588]
+ERROR - 2023-01-07 16:27:41 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2687]
+ERROR - 2023-01-07 16:36:40 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2689]
+ERROR - 2023-01-07 16:40:27 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2688]
+ERROR - 2023-01-07 16:45:25 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1481]
+ERROR - 2023-01-07 16:52:32 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1482]
+ERROR - 2023-01-07 12:20:16 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-01-07 18:29:50 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:108.0) Gecko/20100101 Firefox/108.0]
+ERROR - 2023-01-07 18:31:37 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1483]
+ERROR - 2023-01-07 18:31:48 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1481]
+ERROR - 2023-01-07 18:32:01 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1482]
+ERROR - 2023-01-07 18:32:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0388]
+ERROR - 2023-01-07 18:32:27 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1484]
+ERROR - 2023-01-07 18:32:40 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1485]
+ERROR - 2023-01-07 18:32:54 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1486]
+ERROR - 2023-01-07 18:33:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1487]
+ERROR - 2023-01-07 18:33:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0588]
+ERROR - 2023-01-07 18:33:53 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2685]
+ERROR - 2023-01-07 18:34:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2686]
+ERROR - 2023-01-07 18:34:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2687]
+ERROR - 2023-01-07 18:34:23 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2688]
+ERROR - 2023-01-07 18:34:33 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2689]
+ERROR - 2023-01-07 18:34:44 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2690]
+ERROR - 2023-01-07 18:35:12 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2691]
+ERROR - 2023-01-07 19:57:39 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-01-01]

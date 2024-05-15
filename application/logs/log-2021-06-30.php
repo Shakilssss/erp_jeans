@@ -1,0 +1,20 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-06-30 08:36:17 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-06-30 08:45:02 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-30]
+ERROR - 2021-06-30 08:45:59 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-29]
+ERROR - 2021-06-30 08:47:50 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-30]
+ERROR - 2021-06-30 09:07:48 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.115, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-06-30 09:21:15 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.18, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0]
+ERROR - 2021-06-30 10:07:34 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-06-30 10:36:23 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-06-30 11:11:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0147]
+ERROR - 2021-06-30 14:35:58 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: QC0033]
+ERROR - 2021-06-30 14:36:15 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-25]
+ERROR - 2021-06-30 14:36:57 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-24]
+ERROR - 2021-06-30 14:41:07 --> ATTENDANCE PROCESS --> [USERNAME : , PROCESS_DATE : 2021-06-25]
+ERROR - 2021-06-30 14:41:57 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-24]
+ERROR - 2021-06-30 16:41:25 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-30]
+ERROR - 2021-06-30 16:42:26 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-06-29]
+ERROR - 2021-06-30 17:03:07 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.18, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0]
+ERROR - 2021-06-30 17:53:19 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.18, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0]

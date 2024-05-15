@@ -1,0 +1,25 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-28 07:25:35 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0]
+ERROR - 2023-03-28 08:04:49 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-03-28]
+ERROR - 2023-03-28 08:11:42 --> Query error: Lock wait timeout exceeded; try restarting transaction
+ERROR - 2023-03-28 08:12:45 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-03-27]
+ERROR - 2023-03-28 08:22:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-03-28]
+ERROR - 2023-03-28 08:24:23 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-03-28]
+ERROR - 2023-03-28 08:24:37 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-03-27]
+ERROR - 2023-03-28 08:26:37 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-03-27]
+ERROR - 2023-03-28 09:28:39 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0]
+ERROR - 2023-03-28 11:49:31 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 225
+ERROR - 2023-03-28 13:56:48 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0]
+ERROR - 2023-03-28 14:27:37 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0697]
+ERROR - 2023-03-28 14:32:50 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0696]
+ERROR - 2023-03-28 14:37:30 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0695]
+ERROR - 2023-03-28 14:43:47 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0698]
+ERROR - 2023-03-28 14:46:00 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0697]
+ERROR - 2023-03-28 15:28:06 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0]
+ERROR - 2023-03-28 15:32:15 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0]
+ERROR - 2023-03-28 15:32:57 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0695]
+ERROR - 2023-03-28 15:33:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0696]
+ERROR - 2023-03-28 15:33:18 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0697]
+ERROR - 2023-03-28 15:33:27 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0698]
+ERROR - 2023-03-28 15:38:11 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0169]

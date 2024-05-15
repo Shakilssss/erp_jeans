@@ -1,0 +1,46 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-29 09:01:34 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 05:01:53 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-05-29 09:02:08 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0913]
+ERROR - 2022-05-29 09:38:52 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-29]
+ERROR - 2022-05-29 09:41:32 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 09:46:52 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-29]
+ERROR - 2022-05-29 09:48:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-28]
+ERROR - 2022-05-29 09:53:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-28]
+ERROR - 2022-05-29 10:16:12 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1951]
+ERROR - 2022-05-29 10:19:50 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1951]
+ERROR - 2022-05-29 10:47:04 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-16]
+ERROR - 2022-05-29 10:47:04 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-15]
+ERROR - 2022-05-29 10:47:05 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-18]
+ERROR - 2022-05-29 10:47:13 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-17]
+ERROR - 2022-05-29 10:47:19 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-19]
+ERROR - 2022-05-29 12:41:38 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 12:48:54 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 13:01:49 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-13]
+ERROR - 2022-05-29 13:05:54 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-10]
+ERROR - 2022-05-29 13:06:08 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-11]
+ERROR - 2022-05-29 13:06:15 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-12]
+ERROR - 2022-05-29 13:06:16 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-14]
+ERROR - 2022-05-29 13:10:11 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 14:25:37 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 15:02:13 --> SALARY PROCESS --> [USERNAME : Hanif, PROCESS_MONTH : 2022-05]
+ERROR - 2022-05-29 15:02:22 --> Query error: Column 'P' cannot be null
+ERROR - 2022-05-29 15:02:37 --> Query error: Column 'P' cannot be null
+ERROR - 2022-05-29 15:04:27 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-29 15:05:39 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-05-29 15:07:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0553]
+ERROR - 2022-05-29 15:14:56 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-05-29 15:28:40 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0262]
+ERROR - 2022-05-29 15:29:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0262]
+ERROR - 2022-05-29 15:33:19 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0481]
+ERROR - 2022-05-29 15:33:53 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0482]
+ERROR - 2022-05-29 15:34:56 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0478]
+ERROR - 2022-05-29 15:38:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1380]
+ERROR - 2022-05-29 15:38:42 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1950]
+ERROR - 2022-05-29 15:51:35 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: IR0129]
+ERROR - 2022-05-29 15:52:43 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0460]
+ERROR - 2022-05-29 15:53:31 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0050]
+ERROR - 2022-05-29 15:56:37 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0129]
+ERROR - 2022-05-29 17:11:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0460]

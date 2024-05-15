@@ -1,0 +1,31 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-25 08:45:15 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]
+ERROR - 2022-10-25 09:19:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-10-25]
+ERROR - 2022-10-25 09:40:46 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-10-25]
+ERROR - 2022-10-25 09:49:15 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-10-25]
+ERROR - 2022-10-25 09:55:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-10-25]
+ERROR - 2022-10-25 09:55:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-10-24]
+ERROR - 2022-10-25 10:17:18 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1818]
+ERROR - 2022-10-25 10:17:40 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1818]
+ERROR - 2022-10-25 10:19:08 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2064]
+ERROR - 2022-10-25 10:19:47 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0483]
+ERROR - 2022-10-25 06:21:52 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-10-25 11:15:58 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-10-25 11:48:04 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]
+ERROR - 2022-10-25 15:33:50 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0622]
+ERROR - 2022-10-25 15:37:56 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2411]
+ERROR - 2022-10-25 15:41:44 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0621]
+ERROR - 2022-10-25 15:45:29 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0620]
+ERROR - 2022-10-25 15:56:33 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0533]
+ERROR - 2022-10-25 15:56:45 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2411]
+ERROR - 2022-10-25 15:57:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1567]
+ERROR - 2022-10-25 15:58:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0109]
+ERROR - 2022-10-25 15:58:34 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0620]
+ERROR - 2022-10-25 15:58:50 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0145]
+ERROR - 2022-10-25 15:58:59 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0621]
+ERROR - 2022-10-25 15:59:19 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2088]
+ERROR - 2022-10-25 15:59:30 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0622]
+ERROR - 2022-10-25 16:47:19 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1192]
+ERROR - 2022-10-25 17:50:33 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2411]

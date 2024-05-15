@@ -1,0 +1,93 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-11-09 08:55:13 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]
+ERROR - 2022-11-09 09:01:59 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-11-09]
+ERROR - 2022-11-09 09:04:58 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]
+ERROR - 2022-11-09 09:06:15 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-11-09]
+ERROR - 2022-11-09 09:08:44 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-11-08]
+ERROR - 2022-11-09 09:42:29 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:47:43 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:47:47 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:48:06 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:48:10 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:49:36 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:50:17 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:57:48 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:57:51 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:58:53 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:58:55 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:58:58 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 09:59:01 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-11-09 12:01:45 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]
+ERROR - 2022-11-09 12:16:44 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2463]
+ERROR - 2022-11-09 12:24:36 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0546]
+ERROR - 2022-11-09 12:30:29 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2461]
+ERROR - 2022-11-09 12:34:03 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2462]
+ERROR - 2022-11-09 12:34:28 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]
+ERROR - 2022-11-09 12:37:57 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2459]
+ERROR - 2022-11-09 12:41:28 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2458]
+ERROR - 2022-11-09 12:44:27 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2457]
+ERROR - 2022-11-09 12:47:41 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2460]
+ERROR - 2022-11-09 13:02:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0874]
+ERROR - 2022-11-09 13:02:50 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2457]
+ERROR - 2022-11-09 13:03:13 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0859]
+ERROR - 2022-11-09 13:03:26 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2458]
+ERROR - 2022-11-09 13:03:45 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1299]
+ERROR - 2022-11-09 13:04:03 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2459]
+ERROR - 2022-11-09 13:04:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: WS0003]
+ERROR - 2022-11-09 13:04:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2460]
+ERROR - 2022-11-09 13:05:30 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0061]
+ERROR - 2022-11-09 13:05:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2461]
+ERROR - 2022-11-09 13:06:18 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0297]
+ERROR - 2022-11-09 13:06:33 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2462]
+ERROR - 2022-11-09 13:06:57 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0107]
+ERROR - 2022-11-09 13:07:12 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2463]
+ERROR - 2022-11-09 13:07:31 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0293]
+ERROR - 2022-11-09 13:08:02 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0546]
+ERROR - 2022-11-09 14:09:40 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0352]
+ERROR - 2022-11-09 15:01:25 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0547]
+ERROR - 2022-11-09 15:01:34 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0546]
+ERROR - 2022-11-09 15:05:47 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0354]
+ERROR - 2022-11-09 15:10:01 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2467]
+ERROR - 2022-11-09 15:14:30 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2465]
+ERROR - 2022-11-09 15:18:38 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2469]
+ERROR - 2022-11-09 15:21:27 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2468]
+ERROR - 2022-11-09 15:24:15 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2466]
+ERROR - 2022-11-09 15:27:03 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2464]
+ERROR - 2022-11-09 15:30:04 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2470]
+ERROR - 2022-11-09 15:33:57 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2472]
+ERROR - 2022-11-09 15:37:14 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1457]
+ERROR - 2022-11-09 15:40:25 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2471]
+ERROR - 2022-11-09 15:43:11 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0355]
+ERROR - 2022-11-09 15:48:35 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0356]
+ERROR - 2022-11-09 16:33:09 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0871]
+ERROR - 2022-11-09 16:33:23 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0547]
+ERROR - 2022-11-09 16:33:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0197]
+ERROR - 2022-11-09 16:34:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0354]
+ERROR - 2022-11-09 16:34:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1215]
+ERROR - 2022-11-09 16:34:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0355]
+ERROR - 2022-11-09 16:35:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1129]
+ERROR - 2022-11-09 16:35:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0356]
+ERROR - 2022-11-09 16:41:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0399]
+ERROR - 2022-11-09 16:41:42 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1457]
+ERROR - 2022-11-09 16:42:16 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0121]
+ERROR - 2022-11-09 16:42:40 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2464]
+ERROR - 2022-11-09 11:44:02 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-11-09 16:44:08 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1001]
+ERROR - 2022-11-09 16:44:24 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2465]
+ERROR - 2022-11-09 16:45:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0727]
+ERROR - 2022-11-09 16:45:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2466]
+ERROR - 2022-11-09 16:45:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1675]
+ERROR - 2022-11-09 16:46:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2467]
+ERROR - 2022-11-09 16:46:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0257]
+ERROR - 2022-11-09 16:46:45 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2468]
+ERROR - 2022-11-09 16:47:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1155]
+ERROR - 2022-11-09 16:47:23 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2469]
+ERROR - 2022-11-09 16:47:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0597]
+ERROR - 2022-11-09 16:47:54 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2470]
+ERROR - 2022-11-09 16:49:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0032]
+ERROR - 2022-11-09 16:49:47 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2471]
+ERROR - 2022-11-09 16:50:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0042]
+ERROR - 2022-11-09 16:50:21 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2472]
+ERROR - 2022-11-09 17:55:40 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0]

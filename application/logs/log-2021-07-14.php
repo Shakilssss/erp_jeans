@@ -1,0 +1,46 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-14 08:29:44 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-14 08:41:37 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-14]
+ERROR - 2021-07-14 08:41:52 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-13]
+ERROR - 2021-07-14 08:43:53 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-14]
+ERROR - 2021-07-14 08:49:25 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-13]
+ERROR - 2021-07-14 06:57:31 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2021-07-14 10:57:57 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0505]
+ERROR - 2021-07-14 10:58:25 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0576]
+ERROR - 2021-07-14 07:01:50 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2021-07-14 11:02:01 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.14, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0]
+ERROR - 2021-07-14 12:31:06 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-02]
+ERROR - 2021-07-14 12:31:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-01]
+ERROR - 2021-07-14 12:31:28 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-03]
+ERROR - 2021-07-14 12:31:33 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-04]
+ERROR - 2021-07-14 12:31:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-05]
+ERROR - 2021-07-14 14:37:26 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-14 14:41:55 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-13]
+ERROR - 2021-07-14 18:31:31 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-14 14:31:41 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2021-07-14 18:32:58 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0136]
+ERROR - 2021-07-14 18:33:24 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1006]
+ERROR - 2021-07-14 18:33:48 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0838]
+ERROR - 2021-07-14 18:34:09 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: IR0015]
+ERROR - 2021-07-14 18:40:43 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0411]
+ERROR - 2021-07-14 18:41:18 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0124]
+ERROR - 2021-07-14 18:42:31 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0659]
+ERROR - 2021-07-14 18:42:59 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0194]
+ERROR - 2021-07-14 18:43:25 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0198]
+ERROR - 2021-07-14 18:44:18 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0115]
+ERROR - 2021-07-14 18:44:59 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0141]
+ERROR - 2021-07-14 18:45:45 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0183]
+ERROR - 2021-07-14 18:46:18 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0050]
+ERROR - 2021-07-14 18:46:46 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0789]
+ERROR - 2021-07-14 18:47:27 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0810]
+ERROR - 2021-07-14 18:48:20 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0263]
+ERROR - 2021-07-14 18:49:14 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1079]
+ERROR - 2021-07-14 18:49:46 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1081]
+ERROR - 2021-07-14 18:50:20 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0819]
+ERROR - 2021-07-14 18:51:04 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0798]
+ERROR - 2021-07-14 18:52:11 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0525]
+ERROR - 2021-07-14 18:52:45 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0005]

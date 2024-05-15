@@ -1,0 +1,36 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-15 08:39:28 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0]
+ERROR - 2023-05-15 08:43:01 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-05-15]
+ERROR - 2023-05-15 08:47:48 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-05-14]
+ERROR - 2023-05-15 09:12:22 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1505]
+ERROR - 2023-05-15 12:43:00 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: PS0561]
+ERROR - 2023-05-15 12:49:42 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0]
+ERROR - 2023-05-15 14:50:24 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2935]
+ERROR - 2023-05-15 14:54:11 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: IR0193]
+ERROR - 2023-05-15 15:11:01 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0431]
+ERROR - 2023-05-15 15:16:28 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0432]
+ERROR - 2023-05-15 15:20:12 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0649]
+ERROR - 2023-05-15 15:26:09 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0709]
+ERROR - 2023-05-15 15:32:11 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2931]
+ERROR - 2023-05-15 15:40:54 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2934]
+ERROR - 2023-05-15 15:44:54 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2932]
+ERROR - 2023-05-15 15:49:58 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2930]
+ERROR - 2023-05-15 15:53:57 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2933]
+ERROR - 2023-05-15 16:14:42 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0193]
+ERROR - 2023-05-15 16:14:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0649]
+ERROR - 2023-05-15 16:15:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0709]
+ERROR - 2023-05-15 16:15:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0431]
+ERROR - 2023-05-15 16:15:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0432]
+ERROR - 2023-05-15 16:15:37 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2930]
+ERROR - 2023-05-15 16:15:47 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2931]
+ERROR - 2023-05-15 16:15:56 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2932]
+ERROR - 2023-05-15 16:16:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2933]
+ERROR - 2023-05-15 16:16:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2934]
+ERROR - 2023-05-15 16:16:36 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2935]
+ERROR - 2023-05-15 18:18:25 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0]
+ERROR - 2023-05-15 14:20:39 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-05-15 18:58:40 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0]
+ERROR - 2023-05-15 14:58:40 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91

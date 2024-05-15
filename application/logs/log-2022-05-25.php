@@ -1,0 +1,36 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-25 09:03:01 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-25 09:03:34 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1947]
+ERROR - 2022-05-25 09:03:55 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1945]
+ERROR - 2022-05-25 09:53:33 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-25 09:57:55 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-25]
+ERROR - 2022-05-25 06:00:26 --> Severity: Warning  --> mysql_pconnect(): No connection could be made because the target machine actively refused it.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-05-25 06:00:26 --> Unable to connect to the database
+ERROR - 2022-05-25 10:05:53 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-25]
+ERROR - 2022-05-25 10:06:57 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-24]
+ERROR - 2022-05-25 10:14:24 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-14]
+ERROR - 2022-05-25 10:14:25 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-15]
+ERROR - 2022-05-25 12:17:48 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-05-25 12:59:05 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0010]
+ERROR - 2022-05-25 12:59:35 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: IR0119]
+ERROR - 2022-05-25 13:00:05 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1756]
+ERROR - 2022-05-25 13:00:56 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0519]
+ERROR - 2022-05-25 13:01:07 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0519]
+ERROR - 2022-05-25 13:02:04 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1221]
+ERROR - 2022-05-25 13:02:48 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0434]
+ERROR - 2022-05-25 13:03:44 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1895]
+ERROR - 2022-05-25 13:08:22 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1765]
+ERROR - 2022-05-25 13:09:01 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0378]
+ERROR - 2022-05-25 13:13:51 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-20]
+ERROR - 2022-05-25 13:34:31 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0193]
+ERROR - 2022-05-25 13:35:04 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0524]
+ERROR - 2022-05-25 13:35:22 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0193]
+ERROR - 2022-05-25 13:35:37 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0193]
+ERROR - 2022-05-25 13:40:54 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1948]
+ERROR - 2022-05-25 16:42:14 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-25 17:05:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-25]
+ERROR - 2022-05-25 17:15:12 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-25 17:17:54 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0421]
+ERROR - 2022-05-25 17:25:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1948]

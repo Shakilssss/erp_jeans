@@ -1,0 +1,83 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-05-22 08:57:38 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2022-05-22 04:58:02 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-05-22 09:03:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS007]
+ERROR - 2022-05-22 05:48:40 --> 404 Page Not Found --> css
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0555 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0556 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0558 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0559 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0560 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0561 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:49:59 --> Severity: Notice  --> Undefined index: PS0562 E:\xampp\htdocs\erp_jeans\application\views\ot_job_card.php 104
+ERROR - 2022-05-22 09:53:33 --> SALARY PROCESS --> [USERNAME : Hanif, PROCESS_MONTH : 2022-05]
+ERROR - 2022-05-22 09:59:09 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-22]
+ERROR - 2022-05-22 10:15:45 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-05-22 10:22:18 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-22]
+ERROR - 2022-05-22 10:22:43 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-21]
+ERROR - 2022-05-22 10:27:06 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-22]
+ERROR - 2022-05-22 10:27:19 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2022-05-22 10:28:30 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-21]
+ERROR - 2022-05-22 10:35:02 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: CU0121]
+ERROR - 2022-05-22 10:35:25 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0322]
+ERROR - 2022-05-22 10:35:41 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0355]
+ERROR - 2022-05-22 10:36:00 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: IR0115]
+ERROR - 2022-05-22 10:36:17 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0515]
+ERROR - 2022-05-22 10:36:52 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0525]
+ERROR - 2022-05-22 10:38:01 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0189]
+ERROR - 2022-05-22 10:38:24 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0278]
+ERROR - 2022-05-22 10:38:48 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1297]
+ERROR - 2022-05-22 10:39:14 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1356]
+ERROR - 2022-05-22 10:39:33 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0267]
+ERROR - 2022-05-22 10:39:51 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0905]
+ERROR - 2022-05-22 10:40:12 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0960]
+ERROR - 2022-05-22 10:40:30 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1323]
+ERROR - 2022-05-22 10:40:46 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1332]
+ERROR - 2022-05-22 10:41:02 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1459]
+ERROR - 2022-05-22 10:41:25 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1749]
+ERROR - 2022-05-22 10:41:41 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1767]
+ERROR - 2022-05-22 10:41:55 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1771]
+ERROR - 2022-05-22 10:42:10 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1908]
+ERROR - 2022-05-22 10:42:23 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1917]
+ERROR - 2022-05-22 10:42:44 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0519]
+ERROR - 2022-05-22 11:16:11 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0517]
+ERROR - 2022-05-22 11:16:47 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0512]
+ERROR - 2022-05-22 11:37:37 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2022-05-22 12:52:39 --> SALARY PROCESS --> [USERNAME : Hanif, PROCESS_MONTH : 2022-05]
+ERROR - 2022-05-22 14:58:37 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1937]
+ERROR - 2022-05-22 15:03:13 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1936]
+ERROR - 2022-05-22 15:31:36 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1935]
+ERROR - 2022-05-22 15:37:13 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0473]
+ERROR - 2022-05-22 15:42:08 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1379]
+ERROR - 2022-05-22 15:46:45 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1938]
+ERROR - 2022-05-22 15:50:12 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0474]
+ERROR - 2022-05-22 15:53:42 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0470]
+ERROR - 2022-05-22 15:58:38 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: IR0128]
+ERROR - 2022-05-22 16:02:03 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0471]
+ERROR - 2022-05-22 16:04:29 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0472]
+ERROR - 2022-05-22 16:08:15 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1933]
+ERROR - 2022-05-22 16:11:11 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1934]
+ERROR - 2022-05-22 16:15:06 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0293]
+ERROR - 2022-05-22 16:35:33 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1935]
+ERROR - 2022-05-22 16:35:50 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1937]
+ERROR - 2022-05-22 16:36:17 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1379]
+ERROR - 2022-05-22 16:36:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0473]
+ERROR - 2022-05-22 16:37:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1936]
+ERROR - 2022-05-22 16:41:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0293]
+ERROR - 2022-05-22 16:41:45 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1934]
+ERROR - 2022-05-22 16:42:02 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1933]
+ERROR - 2022-05-22 16:42:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0471]
+ERROR - 2022-05-22 16:43:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0472]
+ERROR - 2022-05-22 16:43:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0128]
+ERROR - 2022-05-22 16:43:43 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0470]
+ERROR - 2022-05-22 16:44:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0474]
+ERROR - 2022-05-22 16:44:21 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1938]
+ERROR - 2022-05-22 17:37:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0562]
+ERROR - 2022-05-22 17:41:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0069]
+ERROR - 2022-05-22 20:07:11 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-15]
+ERROR - 2022-05-22 20:07:11 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-14]
+ERROR - 2022-05-22 20:07:13 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-18]
+ERROR - 2022-05-22 20:07:13 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-16]
+ERROR - 2022-05-22 20:07:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-05-17]

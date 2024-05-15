@@ -1,0 +1,115 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-31 04:41:31 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 08:41:35 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0]
+ERROR - 2023-07-31 04:41:36 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 04:41:36 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 04:41:36 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 04:41:53 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 08:42:06 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2023-07-31 08:44:56 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2023-07-31 08:49:58 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-31]
+ERROR - 2023-07-31 09:01:33 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-31]
+ERROR - 2023-07-31 09:06:01 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-30]
+ERROR - 2023-07-31 09:10:58 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.1.233, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36]
+ERROR - 2023-07-31 05:11:19 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 09:25:48 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO3151]
+ERROR - 2023-07-31 10:32:54 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: CU0203]
+ERROR - 2023-07-31 10:37:39 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0664]
+ERROR - 2023-07-31 10:39:39 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0603]
+ERROR - 2023-07-31 10:39:56 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0738]
+ERROR - 2023-07-31 10:56:05 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.1.233, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36]
+ERROR - 2023-07-31 10:57:30 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2062]
+ERROR - 2023-07-31 10:58:28 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0595]
+ERROR - 2023-07-31 10:58:39 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0043]
+ERROR - 2023-07-31 11:01:57 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO3088]
+ERROR - 2023-07-31 11:10:24 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1384]
+ERROR - 2023-07-31 07:15:40 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ G:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2023-07-31 11:19:27 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2714]
+ERROR - 2023-07-31 11:19:37 --> Severity: Notice  --> Undefined index: SO3020 G:\xampp\htdocs\erp_jeans\application\views\job_card.php 108
+ERROR - 2023-07-31 11:19:47 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2735]
+ERROR - 2023-07-31 11:20:03 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2714]
+ERROR - 2023-07-31 11:20:21 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: so2714]
+ERROR - 2023-07-31 11:24:29 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO3044]
+ERROR - 2023-07-31 11:25:30 --> Severity: Notice  --> Undefined index: SO2878 G:\xampp\htdocs\erp_jeans\application\views\job_card.php 108
+ERROR - 2023-07-31 11:48:52 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0694]
+ERROR - 2023-07-31 11:57:35 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0694]
+ERROR - 2023-07-31 11:57:48 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO3151]
+ERROR - 2023-07-31 13:03:38 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0]
+ERROR - 2023-07-31 13:08:58 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-14]
+ERROR - 2023-07-31 13:13:24 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-21]
+ERROR - 2023-07-31 15:37:24 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0]
+ERROR - 2023-07-31 15:48:53 --> Severity: Notice  --> Undefined variable: responce G:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 225
+ERROR - 2023-07-31 15:53:55 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-02]
+ERROR - 2023-07-31 15:53:57 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-01]
+ERROR - 2023-07-31 15:53:58 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-03]
+ERROR - 2023-07-31 15:53:59 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-04]
+ERROR - 2023-07-31 15:57:24 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-06]
+ERROR - 2023-07-31 15:57:24 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-05]
+ERROR - 2023-07-31 15:57:26 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-07]
+ERROR - 2023-07-31 15:59:41 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0397]
+ERROR - 2023-07-31 16:00:27 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-06-28]
+ERROR - 2023-07-31 16:00:28 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-06-30]
+ERROR - 2023-07-31 16:00:30 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-06-29]
+ERROR - 2023-07-31 16:05:39 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2062]
+ERROR - 2023-07-31 16:05:47 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: so2062]
+ERROR - 2023-07-31 16:08:49 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: CU0131]
+ERROR - 2023-07-31 16:08:57 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: CU0131]
+ERROR - 2023-07-31 16:12:56 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2758]
+ERROR - 2023-07-31 16:13:04 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2758]
+ERROR - 2023-07-31 16:14:27 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0412]
+ERROR - 2023-07-31 16:14:34 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0412]
+ERROR - 2023-07-31 16:23:38 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0381]
+ERROR - 2023-07-31 16:24:10 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2754]
+ERROR - 2023-07-31 16:25:35 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2572]
+ERROR - 2023-07-31 16:26:04 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0057]
+ERROR - 2023-07-31 16:27:01 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1216]
+ERROR - 2023-07-31 16:27:54 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2843]
+ERROR - 2023-07-31 16:28:28 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2962]
+ERROR - 2023-07-31 16:29:14 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1431]
+ERROR - 2023-07-31 16:29:45 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0371]
+ERROR - 2023-07-31 16:30:46 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2473]
+ERROR - 2023-07-31 16:32:40 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2955]
+ERROR - 2023-07-31 16:33:05 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2120]
+ERROR - 2023-07-31 16:34:20 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2754]
+ERROR - 2023-07-31 16:40:56 --> SALARY PROCESS --> [USERNAME : Hanif, PROCESS_MONTH : 2023-07]
+ERROR - 2023-07-31 16:47:15 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2955]
+ERROR - 2023-07-31 16:58:12 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-07]
+ERROR - 2023-07-31 17:50:47 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2735]
+ERROR - 2023-07-31 17:50:54 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO2735]
+ERROR - 2023-07-31 17:51:17 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0554]
+ERROR - 2023-07-31 18:10:28 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-06-28]
+ERROR - 2023-07-31 18:10:33 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-06-30]
+ERROR - 2023-07-31 18:10:35 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-06-29]
+ERROR - 2023-07-31 18:10:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-01]
+ERROR - 2023-07-31 18:10:39 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-02]
+ERROR - 2023-07-31 18:16:04 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-03]
+ERROR - 2023-07-31 18:16:08 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-04]
+ERROR - 2023-07-31 18:16:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-06]
+ERROR - 2023-07-31 18:16:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-05]
+ERROR - 2023-07-31 18:16:15 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-07]
+ERROR - 2023-07-31 18:37:00 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.1.233, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36]
+ERROR - 2023-07-31 19:29:26 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0623]
+ERROR - 2023-07-31 20:23:42 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-09]
+ERROR - 2023-07-31 20:23:42 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-08]
+ERROR - 2023-07-31 20:23:50 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-10]
+ERROR - 2023-07-31 20:23:54 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-11]
+ERROR - 2023-07-31 20:23:59 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-12]
+ERROR - 2023-07-31 20:36:19 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-13]
+ERROR - 2023-07-31 20:36:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-15]
+ERROR - 2023-07-31 20:36:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-18]
+ERROR - 2023-07-31 20:36:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-16]
+ERROR - 2023-07-31 20:36:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-17]
+ERROR - 2023-07-31 20:43:29 --> Severity: Notice  --> Trying to get property of non-object G:\xampp\htdocs\erp_jeans\application\models\attn_process_model.php 404
+ERROR - 2023-07-31 20:47:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-19]
+ERROR - 2023-07-31 20:47:41 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-20]
+ERROR - 2023-07-31 20:47:45 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-22]
+ERROR - 2023-07-31 20:47:53 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-24]
+ERROR - 2023-07-31 20:48:01 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2023-07-23]

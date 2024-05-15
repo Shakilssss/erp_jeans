@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-18 09:01:35 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-18 09:04:45 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-18]
+ERROR - 2021-07-18 09:05:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-17]
+ERROR - 2021-07-18 09:15:21 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.16, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0]
+ERROR - 2021-07-18 09:19:26 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-17]
+ERROR - 2021-07-18 09:19:27 --> ATTENDANCE PROCESS --> [USERNAME : , PROCESS_DATE : 2021-07-17]
+ERROR - 2021-07-18 09:19:32 --> ATTENDANCE PROCESS --> [USERNAME : , PROCESS_DATE : 2021-07-17]
+ERROR - 2021-07-18 09:23:01 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-18 09:25:57 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-18]
+ERROR - 2021-07-18 09:26:30 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-17]
+ERROR - 2021-07-18 09:29:17 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2021-07-18 09:29:24 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-18 09:30:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-18]
+ERROR - 2021-07-18 10:42:37 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-18]
+ERROR - 2021-07-18 10:43:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-07-17]
+ERROR - 2021-07-18 12:13:17 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.16, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0]
+ERROR - 2021-07-18 12:16:06 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-18 16:23:35 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-18 16:36:51 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-07-18 16:54:23 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.24, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0]
+ERROR - 2021-07-18 17:12:30 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0253]

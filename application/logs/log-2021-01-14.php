@@ -1,0 +1,36 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-14 10:11:01 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 10:20:17 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 10:34:47 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 10:58:02 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 10:58:33 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.110, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0]
+ERROR - 2021-01-14 11:32:53 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0021]
+ERROR - 2021-01-14 11:40:57 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0019]
+ERROR - 2021-01-14 11:48:16 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0082]
+ERROR - 2021-01-14 11:57:37 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1018]
+ERROR - 2021-01-14 12:06:50 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.110, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0]
+ERROR - 2021-01-14 12:12:56 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0005]
+ERROR - 2021-01-14 12:22:01 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1020]
+ERROR - 2021-01-14 12:28:20 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0028]
+ERROR - 2021-01-14 12:29:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1020]
+ERROR - 2021-01-14 12:52:24 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: CU0006]
+ERROR - 2021-01-14 13:00:12 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: CU0011]
+ERROR - 2021-01-14 14:27:27 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 14:28:37 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.110, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0]
+ERROR - 2021-01-14 14:44:35 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0109]
+ERROR - 2021-01-14 14:52:47 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0077]
+ERROR - 2021-01-14 15:10:48 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.12, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 15:15:46 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.110, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0]
+ERROR - 2021-01-14 15:21:06 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0037]
+ERROR - 2021-01-14 15:21:19 --> Severity: Notice  --> Undefined property: Grid_con::$sqlDB E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 17
+ERROR - 2021-01-14 15:23:01 --> Severity: Notice  --> Undefined variable: sqlDB E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 17
+ERROR - 2021-01-14 15:23:01 --> Severity: Notice  --> Trying to get property of non-object E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 17
+ERROR - 2021-01-14 15:26:22 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0129]
+ERROR - 2021-01-14 15:34:34 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0114]
+ERROR - 2021-01-14 15:44:33 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0034]
+ERROR - 2021-01-14 15:47:27 --> Unable to connect to the database
+ERROR - 2021-01-14 15:54:14 --> LOGIN : OUT --> [USERNAME : Hanif, has Logout from 192.168.0.12, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36]
+ERROR - 2021-01-14 16:31:53 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0121]
+ERROR - 2021-01-14 16:37:47 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0121]
+ERROR - 2021-01-14 17:44:41 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0087]

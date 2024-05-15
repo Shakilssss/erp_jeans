@@ -1,0 +1,22 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-08 07:23:59 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-08 07:26:32 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.20, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-08 07:30:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-07]
+ERROR - 2021-05-08 07:33:06 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-06]
+ERROR - 2021-05-08 07:57:49 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.20, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-08 08:22:41 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0310]
+ERROR - 2021-05-08 08:34:33 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-08]
+ERROR - 2021-05-08 08:34:40 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-07]
+ERROR - 2021-05-08 08:43:47 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.17, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-08 09:02:11 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-06]
+ERROR - 2021-05-08 09:43:29 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.20, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-08 09:57:23 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2021-05-08 10:56:37 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.20, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-08 11:52:32 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-06]
+ERROR - 2021-05-08 11:59:54 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: OS0073]
+ERROR - 2021-05-08 12:27:48 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: OS0073]
+ERROR - 2021-05-08 12:30:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0310]
+ERROR - 2021-05-08 13:07:01 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: OS0073]
+ERROR - 2021-05-08 13:35:45 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0570]
+ERROR - 2021-05-08 17:46:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0036]

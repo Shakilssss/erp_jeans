@@ -1,0 +1,63 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-14 09:02:00 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0]
+ERROR - 2021-10-14 09:04:19 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-10-14]
+ERROR - 2021-10-14 09:10:19 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-10-14]
+ERROR - 2021-10-14 09:10:50 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-10-13]
+ERROR - 2021-10-14 05:12:20 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2021-10-14 09:23:26 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-10-14 09:31:01 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-10-14 09:32:32 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.25, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0]
+ERROR - 2021-10-14 09:33:16 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0081]
+ERROR - 2021-10-14 09:37:05 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0]
+ERROR - 2021-10-14 09:39:55 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1260]
+ERROR - 2021-10-14 11:46:47 --> Severity: Notice  --> Undefined variable: casual_balance E:\xampp\htdocs\erp_jeans\application\models\leave_model.php 165
+ERROR - 2021-10-14 12:16:32 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2021-10-14 12:16:37 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2021-10-14 12:16:55 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2021-10-14 12:55:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0094]
+ERROR - 2021-10-14 15:12:57 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0174]
+ERROR - 2021-10-14 15:17:37 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1297]
+ERROR - 2021-10-14 15:21:41 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0306]
+ERROR - 2021-10-14 15:21:46 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0302]
+ERROR - 2021-10-14 15:27:29 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1300]
+ERROR - 2021-10-14 15:33:27 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0304]
+ERROR - 2021-10-14 15:38:18 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0303]
+ERROR - 2021-10-14 15:45:11 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1293]
+ERROR - 2021-10-14 15:51:41 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0]
+ERROR - 2021-10-14 15:52:15 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1294]
+ERROR - 2021-10-14 15:57:06 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1295]
+ERROR - 2021-10-14 16:02:06 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1301]
+ERROR - 2021-10-14 16:07:12 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0035]
+ERROR - 2021-10-14 16:07:38 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1296]
+ERROR - 2021-10-14 16:11:45 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1298]
+ERROR - 2021-10-14 16:12:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0024]
+ERROR - 2021-10-14 16:15:34 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1299]
+ERROR - 2021-10-14 16:15:59 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0053]
+ERROR - 2021-10-14 16:16:42 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2021-10-14 16:17:33 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0062]
+ERROR - 2021-10-14 16:22:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0062]
+ERROR - 2021-10-14 16:27:59 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0162]
+ERROR - 2021-10-14 16:30:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1296]
+ERROR - 2021-10-14 16:30:46 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1301]
+ERROR - 2021-10-14 16:32:00 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1299]
+ERROR - 2021-10-14 16:32:16 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1298]
+ERROR - 2021-10-14 16:32:32 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1295]
+ERROR - 2021-10-14 16:32:47 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1294]
+ERROR - 2021-10-14 16:33:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1293]
+ERROR - 2021-10-14 16:33:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0303]
+ERROR - 2021-10-14 16:33:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0304]
+ERROR - 2021-10-14 16:33:55 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1300]
+ERROR - 2021-10-14 16:34:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0302]
+ERROR - 2021-10-14 16:34:22 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0081]
+ERROR - 2021-10-14 16:34:31 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1297]
+ERROR - 2021-10-14 16:34:48 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0174]
+ERROR - 2021-10-14 16:51:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0018]
+ERROR - 2021-10-14 16:57:10 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0305]
+ERROR - 2021-10-14 17:07:05 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1302]
+ERROR - 2021-10-14 17:14:51 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0306]
+ERROR - 2021-10-14 17:17:59 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0306]
+ERROR - 2021-10-14 17:18:12 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1302]
+ERROR - 2021-10-14 17:18:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0305]
+ERROR - 2021-10-14 17:58:46 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.115, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0]

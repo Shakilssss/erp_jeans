@@ -1,0 +1,42 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-22 07:16:57 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.9, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 07:27:33 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.2, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 07:32:42 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0087]
+ERROR - 2021-04-22 08:00:47 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 08:23:13 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-04-22]
+ERROR - 2021-04-22 08:26:40 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-04-21]
+ERROR - 2021-04-22 08:49:48 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-04-22 08:58:39 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.8, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 10:19:45 --> Severity: Notice  --> Undefined variable: sick_balance E:\xampp\htdocs\erp_jeans\application\models\leave_model.php 169
+ERROR - 2021-04-22 10:22:31 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.2, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 11:26:41 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.8, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 11:27:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0364]
+ERROR - 2021-04-22 11:36:19 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0730]
+ERROR - 2021-04-22 11:43:41 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0731]
+ERROR - 2021-04-22 11:50:13 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0732]
+ERROR - 2021-04-22 11:58:01 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0733]
+ERROR - 2021-04-22 12:40:45 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.9, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 12:41:17 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.2, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 12:45:50 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0734]
+ERROR - 2021-04-22 12:46:19 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0709]
+ERROR - 2021-04-22 12:47:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0710]
+ERROR - 2021-04-22 12:47:32 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0718]
+ERROR - 2021-04-22 12:47:45 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0733]
+ERROR - 2021-04-22 12:47:49 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: SO0722]
+ERROR - 2021-04-22 12:48:10 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: SO0723]
+ERROR - 2021-04-22 12:48:27 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: SO0724]
+ERROR - 2021-04-22 12:48:57 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: SO0733]
+ERROR - 2021-04-22 12:49:39 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: PS0228]
+ERROR - 2021-04-22 12:49:54 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: PS0238]
+ERROR - 2021-04-22 13:58:07 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.2, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 13:59:13 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2021-04-22 13:59:29 --> Severity: Notice  --> Trying to get property of non-object E:\xampp\htdocs\erp_jeans\application\views\salary_sheet.php 118
+ERROR - 2021-04-22 14:31:18 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 14:37:11 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 14:42:47 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.8, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 14:43:15 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.2, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-04-22 15:12:32 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 15:18:11 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36]
+ERROR - 2021-04-22 17:23:18 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from ::1, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36]
+ERROR - 2021-04-22 17:23:26 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215

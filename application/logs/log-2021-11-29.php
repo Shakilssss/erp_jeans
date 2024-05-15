@@ -1,0 +1,50 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-29 08:12:10 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0]
+ERROR - 2021-11-29 08:22:58 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-26]
+ERROR - 2021-11-29 08:52:02 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0025]
+ERROR - 2021-11-29 08:55:16 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0028]
+ERROR - 2021-11-29 08:56:09 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.15, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2021-11-29 09:06:33 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-29]
+ERROR - 2021-11-29 09:11:13 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-29]
+ERROR - 2021-11-29 09:12:03 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-28]
+ERROR - 2021-11-29 09:16:39 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-29]
+ERROR - 2021-11-29 09:17:33 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-28]
+ERROR - 2021-11-29 09:31:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0031]
+ERROR - 2021-11-29 09:31:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0031]
+ERROR - 2021-11-29 10:45:59 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-11-29 10:52:07 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-11-16]
+ERROR - 2021-11-29 11:47:27 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0652]
+ERROR - 2021-11-29 11:47:54 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0970]
+ERROR - 2021-11-29 11:48:23 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0736]
+ERROR - 2021-11-29 11:48:44 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0749]
+ERROR - 2021-11-29 11:49:01 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1475]
+ERROR - 2021-11-29 11:49:09 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1012]
+ERROR - 2021-11-29 11:49:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0391]
+ERROR - 2021-11-29 11:50:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0841]
+ERROR - 2021-11-29 11:50:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1234]
+ERROR - 2021-11-29 11:51:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1016]
+ERROR - 2021-11-29 11:51:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0530]
+ERROR - 2021-11-29 11:52:01 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0248]
+ERROR - 2021-11-29 11:52:22 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0258]
+ERROR - 2021-11-29 11:52:46 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0295]
+ERROR - 2021-11-29 14:30:12 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0]
+ERROR - 2021-11-29 15:17:38 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.15, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2021-11-29 15:27:20 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1476]
+ERROR - 2021-11-29 15:41:27 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.15, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2021-11-29 10:41:45 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2021-11-29 15:41:48 --> Query error: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8_general_ci,COERCIBLE) for operation '='
+ERROR - 2021-11-29 10:42:37 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2021-11-29 15:42:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0401]
+ERROR - 2021-11-29 15:56:25 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO01477]
+ERROR - 2021-11-29 16:26:46 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1476]
+ERROR - 2021-11-29 16:29:55 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1132]
+ERROR - 2021-11-29 16:32:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO01477]
+ERROR - 2021-11-29 18:15:06 --> Severity: Notice  --> Undefined variable: casual_balance E:\xampp\htdocs\erp_jeans\application\models\leave_model.php 165
+ERROR - 2021-11-29 18:25:21 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.15, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2021-11-29 18:25:58 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0069]
+ERROR - 2021-11-29 18:30:35 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.15, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0]
+ERROR - 2021-11-29 19:15:11 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1475]
+ERROR - 2021-11-29 19:16:37 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1475]

@@ -1,0 +1,138 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><link href="first_data/userstyles.css" type="text/css" rel="stylesheet">
+<script language="javascript" src="first_data/ClientFunctions.js">
+</script>
+<script language="javascript" src="first_data/Validations.js">
+</script>
+
+<script language="javascript">
+
+function chkDates()
+{
+	if(document.frmIpInformationRep.txtSDate.value == "")
+	{
+		alert("Please select start date")
+		document.frmIpInformationRep.txtSDate.focus()
+		return false
+	}
+	if(document.frmIpInformationRep.txtEDate.value == "")
+	{
+		alert("Please select end date")
+		document.frmIpInformationRep.txtEDate.focus()
+		return false
+	}
+	
+}
+function chosOpt(obj)
+{
+	if(obj.value=="Area")
+	{
+		document.frmIpInformationRep.cboArea.disabled = false
+	}
+	if(obj.value=="Ref")
+	{
+		document.frmIpInformationRep.cboRefName.disabled = false
+	}
+	if(obj.value == "Comp")
+	{
+		document.frmIpInformationRep.cboCompName.disabled = false
+	}
+	if(obj.value=="Dept")
+	{
+		document.frmIpInformationRep.cboDeptCd.disabled = false
+	}
+}
+function disabSel()
+{
+		document.frmIpInformationRep.cboArea.disabled = true
+		document.frmIpInformationRep.cboRefName.disabled = true
+		document.frmIpInformationRep.cboCompName.disabled = true		
+		document.frmIpInformationRep.cboDept.disabled = true		
+}
+	function printrec()
+    {
+
+        frmIpInformationRep.style.visibility="hidden"
+         window.print()
+        frmIpInformationRep.style.visibility="visible"
+  
+    }
+</script>
+
+
+<style>
+BODY { SCROLLBAR-FACE-COLOR: #7396CE; SCROLLBAR-ARROW-COLOR: black }
+</style></head>
+
+                                                                 <body text="darkblue">
+<form name="frmIpInformationRep" method="post" action="../../MIS/ASP/frmIpInformationRepKumar.asp">
+<table class="Tbl" style="width: 470px;" align="center" border="1" bordercolor="#7396CE" cellpadding="0" cellspacing="0">
+<tbody><tr> 
+	<td colspan="4" class="maintitle" width="468">IP Admissions Details Report</td>
+</tr>
+<tr>
+
+	<td width="87"> 
+		Dates Between
+	</td>
+	<td width="155">
+			<input size="10" name="txtSDate" tabindex="6" onblur="DOBAge(this)" value="5/30/2011" onkeypress="if ((event.keyCode<47) || (event.keyCode>57)) {event.returnValue=false}" maxlength="10">
+            <a href="javascript:NewCal('txtSDate','mmddyyyy')">
+            <img src="first_data/cal.gif" alt="Pick a date" border="0" height="16" width="16">&nbsp;  
+            </a>
+            <font color="midnightblue" face="VERDANA">
+		    <b><font color="#0000FF" size="1">Pick</font></b></font>
+		   <script language="JavaScript" type="text/javascript" src="first_data/datetimepicker.js"></script>
+ 
+		    &nbsp;and
+		
+	</td>
+	
+	<td width="128">
+		
+			<input size="10" name="txtEDate" tabindex="6" onblur="DOBAge(this)" value="5/30/2011" onkeypress="if ((event.keyCode<47) || (event.keyCode>57)) {event.returnValue=false}" maxlength="10">
+            <a href="javascript:NewCal('txtEDate','mmddyyyy')">
+            <img src="first_data/cal.gif" alt="Pick a date" border="0" height="16" width="16">&nbsp;  
+            </a>
+            <font color="midnightblue" face="VERDANA">
+		    <b><font color="#0000FF" size="1">Pick</font></b></font>
+		   <script language="JavaScript" type="text/javascript" src="first_data/datetimepicker.js"></script>
+ 
+	</td>
+</tr>
+<tr>
+	<td width="87">
+	<input name="optChoose" color="darkblue" value="Area" type="radio">
+	Area
+	</td>
+	<td width="155">
+		<input name="optChoose" color="darkblue" value="Ref" type="radio">
+		RefDoc
+	</td>
+	<td width="128">
+		<input name="optChoose" color="darkblue" value="Comp" type="radio">
+	Company
+	</td>		
+</tr>
+<tr>
+	<td colspan="4" width="468">
+	<input name="optChoose" color="darkblue" value="Dept" type="radio">
+	Dept
+	</td>	
+</tr>
+	<input name="hidMonName" type="hidden">
+	<input name="hidLocation" type="hidden">
+</tbody></table>
+<center>
+    <button name="submit1" style="WIDTH: 60px" class="ButtonStyle" type="submit" value="Report" onclick="chkDates()" accesskey="R"><u>R</u>eport</button>
+    <button name="button1" style="WIDTH: 60px" class="ButtonStyle" type="button" value="Print" onclick="printrec()" accesskey="P"><u>P</u>rint</button>
+</center>    
+
+
+
+</form>
+	
+
+
+
+</body></html>

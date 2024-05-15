@@ -1,0 +1,642 @@
+.Treestyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+.textFieldstyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: darkblue;
+    BORDER-TOP-STYLE: none;
+    BORDER-BOTTOM: black thin solid;
+    FONT-FAMILY: Verdana;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BACKGROUND-COLOR: #e7ebf7
+}
+.InnerHtmlFont
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: darkblue;
+    FONT-FAMILY: verdana
+}
+.textFieldstylew
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: darkblue;
+    BORDER-TOP-STYLE: none;
+    BORDER-BOTTOM: black thin solid;
+    FONT-FAMILY: Verdana;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BACKGROUND-COLOR: white
+}
+.buttonstyle1
+{
+    FONT-SIZE: 11px;
+    WIDTH: 200px;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #7396ce;
+    BORDER-BOTTOM-STYLE: groove
+}
+.buttonstyle2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    WIDTH: 80px;
+    COLOR: black;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #7396ce;
+    BORDER-BOTTOM-STYLE: groove
+}
+.printbtnstyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    WIDTH: 80px;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #7396ce;
+    BORDER-BOTTOM-STYLE: groove
+}
+TABLE.Main
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BORDER-LEFT: medium none;
+    BORDER-BOTTOM: medium none
+}
+.View1
+{
+    WIDTH: 30px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+.View2
+{
+    FONT-SIZE: 9px;
+    WIDTH: 30px;
+    COLOR: darkblue
+}
+.YELLOW
+{
+    BACKGROUND-COLOR: yellow
+}
+.GREEN
+{
+    BACKGROUND-COLOR: green
+}
+.clsTdHeding
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: yellow;
+    FONT-FAMILY: Verdana
+}
+.clsTdHeadingR
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+.clsTdFirst
+{
+    BORDER-RIGHT: #7396ce 1px solid;
+    BORDER-TOP: #7396ce 1px solid;
+    FONT-WEIGHT: bold;
+    TEXT-TRANSFORM: uppercase;
+    BORDER-LEFT: #7396ce 1px solid;
+    COLOR: black;
+    BORDER-BOTTOM: #7396ce 1px solid;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #b6c6e7;
+    TEXT-ALIGN: center
+}
+.clsTblHead
+{
+    BORDER-RIGHT: #7396ce 1px solid;
+    BORDER-TOP: #7396ce 1px solid;
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10px;
+    TEXT-TRANSFORM: uppercase;
+    BORDER-LEFT: #7396ce 1px solid;
+    COLOR: black;
+    BORDER-BOTTOM: #7396ce 1px solid;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #b6c6e7;
+    TEXT-ALIGN: center
+}
+.Tbl
+{
+    BORDER-RIGHT: #7396ce 1px;
+    BORDER-TOP: #7396ce 1px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: #7396ce 1px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: #7396ce 1px;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.Tr
+{
+    BORDER-RIGHT: #3300ff thin groove;
+    BORDER-TOP: #3300ff thin groove;
+    BORDER-LEFT: #3300ff thin groove;
+    COLOR: darkblue;
+    BORDER-BOTTOM: #3300ff thin groove;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.textbox1
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 70px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.txtboxsmall
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 20px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.txtboxstyle
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 120px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.labtxtboxsmall
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 40px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.Generictxtboxstyle
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.labtxtboxstyle
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 150px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.hlptxtboxstyleLong
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    WIDTH: 250px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+.hlptxtboxstyleSmall
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    WIDTH: 80px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+.labtxtboxmediumstyle
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 80px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.btnstylelong
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    WIDTH: 120px;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #7396ce;
+    BORDER-BOTTOM-STYLE: groove
+}
+.btnstyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 11px;
+    WIDTH: 70px;
+    COLOR: white;
+    FONT-FAMILY: Arial;
+    BACKGROUND-COLOR: #7396ce;
+    BORDER-BOTTOM-STYLE: groove
+}
+.txtboxlongstyle
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 220px;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana
+}
+.TextAreaStyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    WIDTH: 300px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 44px
+}
+.TextBoxStyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    WIDTH: 112px;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 22px
+}
+.DropDownStyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    WIDTH: 112px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 30px
+}
+.DropDownStyle1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+.PopUpStyle
+{
+    LEFT: 600px;
+    TOP: 600px;
+    HEIGHT: 50px
+}
+.ButtonStyle
+{
+    WIDTH: 80px;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7396ce
+}
+.ButtonStyle1
+{
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7396ce
+}
+.SelectBoxStyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: darkblue;
+    FONT-FAMILY: verdana;
+    HEIGHT: 150px
+}
+.Txtboxlongstyle
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    WIDTH: 200px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 22px
+}
+.textboxE
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 22px
+}
+.MainTitle
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 14px;
+    BACKGROUND-IMAGE: url('../IMAGES/bg-title2.jpg');
+    TEXT-TRANSFORM: capitalize;
+    COLOR: black;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: center
+}
+.SubTitle
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: center
+}
+.Title
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 14px;
+    TEXT-TRANSFORM: uppercase;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana
+}
+.clsTdSub
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: red;
+    FONT-FAMILY: Verdana
+}
+.clsRepHead
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10px;
+    COLOR: darkred;
+    FONT-FAMILY: Verdana
+}
+.clsTdMsg
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10px;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: center
+}
+.clsTdStrip
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10px;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: yellow;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+.clsTblStrip
+{
+    BORDER-RIGHT: white;
+    BORDER-TOP: white;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    BORDER-LEFT: white;
+    COLOR: white;
+    BORDER-BOTTOM: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7396ce;
+    TEXT-ALIGN: left
+}
+.TxtBoxStripStyle
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    WIDTH: 112px;
+    COLOR: white;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 22px;
+    BACKGROUND-COLOR: #7396ce
+}
+.clsErrMsg
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12pt;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: darkred;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana;
+    FONT-VARIANT: normal
+}
+.clsErrMsg1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: red;
+    FONT-STYLE: italic;
+    FONT-FAMILY: Verdana;
+    FONT-VARIANT: normal
+}
+.clsTRHeading
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    BACKGROUND-IMAGE: url('../IMAGES/bg-title2.jpg');
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: left
+}
+.HELPBODY
+{
+    BACKGROUND-COLOR: lightsteelblue
+}
+.HELPTABLE
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    COLOR: white;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: lightsteelblue
+}
+.HELPTRTITLE
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    COLOR: yellow;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7396ce
+}
+.REPTABLE
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    VISIBILITY: visible;
+    BORDER-LEFT: medium none;
+    COLOR: darkblue;
+    BORDER-BOTTOM: medium none;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white;
+    ALIGN: CENTER
+}
+.REPMAINTITLE
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    VISIBILITY: visible;
+    COLOR: white;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7396ce;
+    TEXT-ALIGN: center
+}
+.REPCOLTITLE
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VISIBILITY: visible;
+    TEXT-TRANSFORM: capitalize;
+    COLOR: yellow;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: #7396ce;
+    TEXT-ALIGN: center
+}
+.REPROWTOT
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    VISIBILITY: visible;
+    COLOR: maroon;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white;
+    TEXT-ALIGN: right
+}
+.REPDATEFROM
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 9px;
+    VISIBILITY: visible;
+    COLOR: #dedede;
+    FONT-FAMILY: Verdana
+}
+.MsgDB
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    VISIBILITY: visible;
+    COLOR: green;
+    FONT-FAMILY: Verdana;
+    TEXT-ALIGN: center
+}
+.MsgAlert
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 12px;
+    VISIBILITY: visible;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana
+}
+BODY
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    COLOR: darkblue;
+    FONT-FAMILY: Verdana;
+    BACKGROUND-COLOR: white
+}
+.DtPckr
+{
+    FONT-WEIGHT: bolder;
+    FONT-SIZE: 10px;
+    WIDTH: 108px;
+    COLOR: #000080;
+    FONT-FAMILY: Verdana;
+    HEIGHT: 22px
+}
+.CompFont
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 20px;
+    COLOR: brown;
+    FONT-FAMILY: times new roman
+}
+.trrow
+{
+    BORDER-RIGHT: 50px;
+    BORDER-TOP: 50px;
+    FONT-SIZE: xx-small;
+    BORDER-LEFT: 50px;
+    WIDTH: 30px;
+    BORDER-BOTTOM: 50px;
+    HEIGHT: 30px;
+    TEXT-ALIGN: left
+}
+.MSGFIN
+{
+    BORDER-RIGHT: black solid;
+    BORDER-TOP: black solid;
+    BORDER-LEFT: black solid;
+    COLOR: #6699cc;
+    BORDER-BOTTOM: black solid;
+    FONT-FAMILY: Verdana
+}

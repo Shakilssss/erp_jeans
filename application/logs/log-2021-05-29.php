@@ -1,0 +1,32 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-29 08:20:52 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-29 08:32:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-29]
+ERROR - 2021-05-29 08:33:29 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-05-29 08:35:58 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-29]
+ERROR - 2021-05-29 08:36:04 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2021-05-28]
+ERROR - 2021-05-29 09:22:04 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-05-29 09:37:53 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0743]
+ERROR - 2021-05-29 10:08:40 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0067]
+ERROR - 2021-05-29 10:13:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0021]
+ERROR - 2021-05-29 10:52:23 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.18, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-05-29 11:24:01 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0023]
+ERROR - 2021-05-29 11:47:09 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0369]
+ERROR - 2021-05-29 12:01:20 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO0798]
+ERROR - 2021-05-29 12:10:32 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0287]
+ERROR - 2021-05-29 12:32:20 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0261]
+ERROR - 2021-05-29 14:25:41 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0]
+ERROR - 2021-05-29 15:06:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0261]
+ERROR - 2021-05-29 15:07:02 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0798]
+ERROR - 2021-05-29 15:08:12 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2021-05-29 16:40:39 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.18, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0]
+ERROR - 2021-05-29 16:52:34 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0262]
+ERROR - 2021-05-29 17:47:31 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0262]
+ERROR - 2021-05-29 18:51:21 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0221]
+ERROR - 2021-05-29 18:52:04 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0266]
+ERROR - 2021-05-29 18:56:42 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0026]
+ERROR - 2021-05-29 18:58:00 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0142]
+ERROR - 2021-05-29 18:59:17 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0192]
+ERROR - 2021-05-29 19:02:29 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: QC0049]
+ERROR - 2021-05-29 19:03:01 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SH1054]
+ERROR - 2021-05-29 19:04:16 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO0598]

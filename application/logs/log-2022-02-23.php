@@ -1,0 +1,72 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-23 08:59:25 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0]
+ERROR - 2022-02-23 09:11:27 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0262]
+ERROR - 2022-02-23 09:16:20 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: SO1258]
+ERROR - 2022-02-23 09:17:54 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: FI0224]
+ERROR - 2022-02-23 09:35:30 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-23]
+ERROR - 2022-02-23 10:02:30 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-20]
+ERROR - 2022-02-23 10:02:30 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-19]
+ERROR - 2022-02-23 10:11:27 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-23]
+ERROR - 2022-02-23 10:12:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-22]
+ERROR - 2022-02-23 10:34:08 --> Severity: Notice  --> Undefined variable: data E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 215
+ERROR - 2022-02-23 10:34:20 --> Severity: Notice  --> Trying to get property of non-object E:\xampp\htdocs\erp_jeans\application\views\salary_sheet_for_eot.php 112
+ERROR - 2022-02-23 10:53:36 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-23]
+ERROR - 2022-02-23 10:54:45 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-22]
+ERROR - 2022-02-23 11:04:03 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-02-23 06:47:38 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-02-23 11:48:17 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-21]
+ERROR - 2022-02-23 11:50:17 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-20]
+ERROR - 2022-02-23 11:50:17 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-19]
+ERROR - 2022-02-23 11:59:18 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.3, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0]
+ERROR - 2022-02-23 13:11:23 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-18]
+ERROR - 2022-02-23 13:13:34 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-17]
+ERROR - 2022-02-23 13:13:34 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-16]
+ERROR - 2022-02-23 13:13:34 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-15]
+ERROR - 2022-02-23 15:19:42 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0]
+ERROR - 2022-02-23 15:23:31 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.6, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0]
+ERROR - 2022-02-23 15:27:05 --> Severity: Notice  --> Trying to get property of non-object E:\xampp\htdocs\erp_jeans\application\views\salary_sheet_for_eot.php 112
+ERROR - 2022-02-23 16:21:56 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1807]
+ERROR - 2022-02-23 16:27:33 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1805]
+ERROR - 2022-02-23 16:43:27 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1806]
+ERROR - 2022-02-23 16:50:46 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0513]
+ERROR - 2022-02-23 16:58:42 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-12]
+ERROR - 2022-02-23 16:58:42 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-13]
+ERROR - 2022-02-23 16:58:42 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-15]
+ERROR - 2022-02-23 16:58:44 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-14]
+ERROR - 2022-02-23 16:58:50 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-16]
+ERROR - 2022-02-23 17:02:29 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0512]
+ERROR - 2022-02-23 17:09:58 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0512]
+ERROR - 2022-02-23 17:10:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0513]
+ERROR - 2022-02-23 17:10:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1806]
+ERROR - 2022-02-23 17:10:37 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-18]
+ERROR - 2022-02-23 17:10:52 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1805]
+ERROR - 2022-02-23 17:11:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1807]
+ERROR - 2022-02-23 17:11:37 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-21]
+ERROR - 2022-02-23 17:14:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-17]
+ERROR - 2022-02-23 17:14:27 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-20]
+ERROR - 2022-02-23 17:14:31 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-19]
+ERROR - 2022-02-23 12:25:17 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-02-23 12:27:54 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-02-23 17:33:50 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-12]
+ERROR - 2022-02-23 17:33:50 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-13]
+ERROR - 2022-02-23 17:33:57 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-14]
+ERROR - 2022-02-23 17:33:59 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-15]
+ERROR - 2022-02-23 17:34:09 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-16]
+ERROR - 2022-02-23 17:39:48 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-18]
+ERROR - 2022-02-23 17:41:03 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-21]
+ERROR - 2022-02-23 17:43:38 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-17]
+ERROR - 2022-02-23 17:43:43 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-20]
+ERROR - 2022-02-23 17:43:45 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-19]
+ERROR - 2022-02-23 17:54:14 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-23]
+ERROR - 2022-02-23 17:55:25 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-22]
+ERROR - 2022-02-23 18:04:00 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-21]
+ERROR - 2022-02-23 18:12:54 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-21]
+ERROR - 2022-02-23 18:46:22 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-21]
+ERROR - 2022-02-23 18:48:10 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-02-20]
+ERROR - 2022-02-23 20:07:00 --> PROFILE : UPDATE --> [USERNAME : , EMP ID: SO1803]
+ERROR - 2022-02-23 20:07:12 --> Severity: Notice  --> Trying to get property of non-object E:\xampp\htdocs\erp_jeans\application\views\salary_sheet_for_eot.php 112
+ERROR - 2022-02-23 20:08:09 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.6, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0]

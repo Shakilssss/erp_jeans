@@ -1,0 +1,47 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-10 08:43:37 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0]
+ERROR - 2022-03-10 08:45:52 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-03-10 08:45:54 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-03-10 08:46:18 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 220
+ERROR - 2022-03-10 09:31:42 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-03-10]
+ERROR - 2022-03-10 09:38:32 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.6, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0]
+ERROR - 2022-03-10 04:46:32 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ E:\xampp\htdocs\erp_jeans\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2022-03-10 09:54:17 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-03-10]
+ERROR - 2022-03-10 09:55:08 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-03-09]
+ERROR - 2022-03-10 10:03:53 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-03-10]
+ERROR - 2022-03-10 10:04:43 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-03-09]
+ERROR - 2022-03-10 10:21:32 --> Severity: Notice  --> Undefined variable: responce E:\xampp\htdocs\erp_jeans\application\controllers\grid_con.php 174
+ERROR - 2022-03-10 10:22:24 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.9, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0]
+ERROR - 2022-03-10 10:36:15 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0]
+ERROR - 2022-03-10 11:26:55 --> PROFILE : RESIGN --> [USERNAME : Hanif, EMP ID: PS0514]
+ERROR - 2022-03-10 12:06:24 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: FI0402]
+ERROR - 2022-03-10 12:14:24 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1838]
+ERROR - 2022-03-10 12:18:23 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1354]
+ERROR - 2022-03-10 12:23:59 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0261]
+ERROR - 2022-03-10 12:28:37 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: WS0038]
+ERROR - 2022-03-10 12:34:35 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0263]
+ERROR - 2022-03-10 12:41:26 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1358]
+ERROR - 2022-03-10 12:52:42 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1356]
+ERROR - 2022-03-10 15:01:04 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.9, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:99.0) Gecko/20100101 Firefox/99.0]
+ERROR - 2022-03-10 15:09:20 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: CU0152]
+ERROR - 2022-03-10 15:15:10 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1355]
+ERROR - 2022-03-10 15:26:45 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO1839]
+ERROR - 2022-03-10 15:34:45 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: QC0262]
+ERROR - 2022-03-10 15:52:56 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SH1357]
+ERROR - 2022-03-10 16:44:58 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1357]
+ERROR - 2022-03-10 16:45:18 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0262]
+ERROR - 2022-03-10 16:45:43 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1839]
+ERROR - 2022-03-10 16:47:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1355]
+ERROR - 2022-03-10 16:48:17 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0152]
+ERROR - 2022-03-10 16:48:34 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1356]
+ERROR - 2022-03-10 16:48:50 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1358]
+ERROR - 2022-03-10 16:49:10 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0263]
+ERROR - 2022-03-10 16:49:25 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: WS0038]
+ERROR - 2022-03-10 16:50:23 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0261]
+ERROR - 2022-03-10 16:51:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1354]
+ERROR - 2022-03-10 16:51:25 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1838]
+ERROR - 2022-03-10 16:51:43 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0402]
+ERROR - 2022-03-10 17:28:57 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0397]
+ERROR - 2022-03-10 20:11:37 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0]

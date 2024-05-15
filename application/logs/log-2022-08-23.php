@@ -1,0 +1,105 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-23 08:55:41 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0]
+ERROR - 2022-08-23 09:14:43 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-08-23]
+ERROR - 2022-08-23 09:29:20 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-08-23]
+ERROR - 2022-08-23 09:30:48 --> ATTENDANCE PROCESS --> [USERNAME : Hanif, PROCESS_DATE : 2022-08-22]
+ERROR - 2022-08-23 11:25:06 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0]
+ERROR - 2022-08-23 11:25:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT count('pr_emp_shift_log.emp_id')
+				 FROM `pr_emp_shift_log` 
+				 JO' at line 99
+ERROR - 2022-08-23 12:40:21 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0]
+ERROR - 2022-08-23 12:40:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT count('pr_emp_shift_log.emp_id')
+				 FROM `pr_emp_shift_log` 
+				 JO' at line 99
+ERROR - 2022-08-23 12:47:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT count('pr_emp_shift_log.emp_id')
+				 FROM `pr_emp_shift_log` 
+				 JO' at line 99
+ERROR - 2022-08-23 12:48:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT count('pr_emp_shift_log.emp_id')
+				 FROM `pr_emp_shift_log` 
+				 JO' at line 99
+ERROR - 2022-08-23 12:50:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM (`pr_emp_shift_log`)
+				JOIN `pr_emp_com_info` ON `pr_emp_com_info`.`emp_' at line 183
+ERROR - 2022-08-23 12:51:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM (`pr_emp_shift_log`)
+				JOIN `pr_emp_com_info` ON `pr_emp_com_info`.`emp_' at line 183
+ERROR - 2022-08-23 12:51:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM (`pr_emp_shift_log`)
+				JOIN `pr_emp_com_info` ON `pr_emp_com_info`.`emp_' at line 183
+ERROR - 2022-08-23 14:56:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1235]
+ERROR - 2022-08-23 14:57:27 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0528]
+ERROR - 2022-08-23 14:57:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0357]
+ERROR - 2022-08-23 14:57:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1443]
+ERROR - 2022-08-23 14:58:16 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0294]
+ERROR - 2022-08-23 14:58:35 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2304]
+ERROR - 2022-08-23 14:59:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0172]
+ERROR - 2022-08-23 14:59:38 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2305]
+ERROR - 2022-08-23 14:59:57 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0176]
+ERROR - 2022-08-23 15:00:18 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2306]
+ERROR - 2022-08-23 15:01:04 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0280]
+ERROR - 2022-08-23 15:01:17 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2307]
+ERROR - 2022-08-23 15:01:40 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0065]
+ERROR - 2022-08-23 15:01:54 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2308]
+ERROR - 2022-08-23 15:02:18 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0062]
+ERROR - 2022-08-23 15:02:37 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2309]
+ERROR - 2022-08-23 15:03:07 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0237]
+ERROR - 2022-08-23 15:03:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2310]
+ERROR - 2022-08-23 15:03:44 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0281]
+ERROR - 2022-08-23 15:04:11 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2311]
+ERROR - 2022-08-23 15:04:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: IR0124]
+ERROR - 2022-08-23 15:05:05 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2312]
+ERROR - 2022-08-23 15:05:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0291]
+ERROR - 2022-08-23 15:05:43 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2313]
+ERROR - 2022-08-23 15:06:08 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1243]
+ERROR - 2022-08-23 15:06:22 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2314]
+ERROR - 2022-08-23 15:06:42 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1270]
+ERROR - 2022-08-23 15:06:57 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2315]
+ERROR - 2022-08-23 15:07:28 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1052]
+ERROR - 2022-08-23 15:07:42 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2316]
+ERROR - 2022-08-23 15:08:02 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1463]
+ERROR - 2022-08-23 15:08:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2317]
+ERROR - 2022-08-23 15:18:59 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 127.0.0.1, USER_AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0]
+ERROR - 2022-08-23 15:32:07 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2329]
+ERROR - 2022-08-23 15:47:49 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2322]
+ERROR - 2022-08-23 15:51:47 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2318]
+ERROR - 2022-08-23 15:57:37 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0602]
+ERROR - 2022-08-23 16:00:51 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2320]
+ERROR - 2022-08-23 16:04:10 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2321]
+ERROR - 2022-08-23 16:12:23 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2319]
+ERROR - 2022-08-23 16:17:40 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2327]
+ERROR - 2022-08-23 16:21:28 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2325]
+ERROR - 2022-08-23 16:25:30 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2326]
+ERROR - 2022-08-23 16:34:03 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2323]
+ERROR - 2022-08-23 16:45:22 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2324]
+ERROR - 2022-08-23 16:49:24 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: SO2328]
+ERROR - 2022-08-23 16:53:12 --> PROFILE : INSERT --> [USERNAME : Hanif, EMP ID: PS0601]
+ERROR - 2022-08-23 17:04:28 --> LOGIN : IN  --> [USERNAME : Hanif, has Login  from 192.168.0.38, USER_AGENT : Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0]
+ERROR - 2022-08-23 17:22:41 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2306]
+ERROR - 2022-08-23 17:33:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0430]
+ERROR - 2022-08-23 17:34:06 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0601]
+ERROR - 2022-08-23 17:34:26 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1358]
+ERROR - 2022-08-23 17:34:58 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0602]
+ERROR - 2022-08-23 17:35:21 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0479]
+ERROR - 2022-08-23 17:35:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2318]
+ERROR - 2022-08-23 17:36:22 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1415]
+ERROR - 2022-08-23 17:36:47 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2319]
+ERROR - 2022-08-23 17:37:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0024]
+ERROR - 2022-08-23 17:37:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2320]
+ERROR - 2022-08-23 17:37:51 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1678]
+ERROR - 2022-08-23 17:39:17 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0236]
+ERROR - 2022-08-23 17:39:39 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2321]
+ERROR - 2022-08-23 17:40:29 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: FI0314]
+ERROR - 2022-08-23 17:40:44 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2322]
+ERROR - 2022-08-23 17:41:11 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO1715]
+ERROR - 2022-08-23 17:41:26 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2323]
+ERROR - 2022-08-23 17:43:20 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SH1307]
+ERROR - 2022-08-23 17:45:54 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2324]
+ERROR - 2022-08-23 17:46:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO0302]
+ERROR - 2022-08-23 17:46:35 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2325]
+ERROR - 2022-08-23 17:47:00 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0456]
+ERROR - 2022-08-23 17:47:14 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2326]
+ERROR - 2022-08-23 17:47:35 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: PS0482]
+ERROR - 2022-08-23 17:47:50 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2327]
+ERROR - 2022-08-23 17:48:15 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: CU0018]
+ERROR - 2022-08-23 17:48:54 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2328]
+ERROR - 2022-08-23 17:49:37 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: QC0206]
+ERROR - 2022-08-23 17:49:58 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2329]
+ERROR - 2022-08-23 17:56:34 --> PROFILE : UPDATE --> [USERNAME : Hanif, EMP ID: SO2208]
